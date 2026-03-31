@@ -14,7 +14,7 @@
 
              Первым ответом будет длина массива positive_data(в файле JS - positiveData) и сумма элементов в нем.
 
-    2) sort_by_B (Python), countSumOfElemFromB(JS), также геттерБ вызывающий этот метод.
+    2) sort_by_B (Python), countSumOfElemFromB(JS), также геттер, вызывающий этот метод.
 
         Описание:
              Определяется переменная Array_B(Python), arrayB(JS), массив который является отсортированной по возрастанию копией
